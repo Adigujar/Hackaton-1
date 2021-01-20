@@ -1,0 +1,48 @@
+.bg {
+    background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg");
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.font1{
+    position: relative;
+    left: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.font2{
+    position: relative;
+    left: 50px;
+    font-size: 36px;
+    font-weight: bolder;
+}
+.box{
+    position: relative;
+    left: 50px;
+    height: 30px;
+    width: 50%;
+}
+.box2{
+    position: relative;
+    left: 50px;
+}
+
+.center{
+    position: absolute;
+    left: 500px;
+}
+
+.center2 {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.padding{
+    position: relative;
+    left: 50px;
+}
